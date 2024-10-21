@@ -1,4 +1,4 @@
-package edu.upenn.cit594.datamanagement;
+package edu.upenn.proj1.datamanagement;
 
 import java.io.FileReader;
 import java.io.IOException;
