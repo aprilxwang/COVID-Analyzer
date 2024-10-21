@@ -1,4 +1,4 @@
-package edu.upenn.cit594.ui;
+package edu.upenn.proj1.ui;
 
 import java.text.ParseException;
 import java.util.List;
