@@ -1,4 +1,4 @@
-package edu.upenn.cit594.util;
+package edu.upenn.proj1.util;
 
 public class CovidData {
     private int zipCode;
