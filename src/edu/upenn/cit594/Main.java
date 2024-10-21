@@ -1,13 +1,13 @@
-package edu.upenn.cit594;
+package edu.upenn.proj1;
 
-import edu.upenn.cit594.datamanagement.CovidDataReader;
-import edu.upenn.cit594.datamanagement.PopulationDataReader;
-import edu.upenn.cit594.datamanagement.PropertyDataReader;
-import edu.upenn.cit594.datamanagement.CSVReader;
-import edu.upenn.cit594.datamanagement.JSONReader;
-import edu.upenn.cit594.processor.Processor;
-import edu.upenn.cit594.ui.UserInterface;
-import edu.upenn.cit594.logging.Logger;
+import edu.upenn.proj1.datamanagement.CovidDataReader;
+import edu.upenn.proj1.datamanagement.PopulationDataReader;
+import edu.upenn.proj1.datamanagement.PropertyDataReader;
+import edu.upenn.proj1.datamanagement.CSVReader;
+import edu.upenn.proj1.datamanagement.JSONReader;
+import edu.upenn.proj1.processor.Processor;
+import edu.upenn.proj1.ui.UserInterface;
+import edu.upenn.proj1.logging.Logger;
 
 import java.io.IOException;
 import java.util.HashSet;
