@@ -1,8 +1,8 @@
-package edu.upenn.cit594.datamanagement;
+package edu.upenn.proj1.datamanagement;
 
-import edu.upenn.cit594.util.CovidData;
-import edu.upenn.cit594.util.Property;
-import edu.upenn.cit594.util.Population;
+import edu.upenn.proj1.util.CovidData;
+import edu.upenn.proj1.util.Property;
+import edu.upenn.proj1.util.Population;
 
 import java.io.BufferedReader;
 import java.io.IOException;
