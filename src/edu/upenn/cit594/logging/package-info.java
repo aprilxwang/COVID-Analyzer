@@ -1,1 +1,1 @@
-package edu.upenn.cit594.logging;
+package edu.upenn.proj1.logging;
