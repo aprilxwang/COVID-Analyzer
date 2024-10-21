@@ -1,6 +1,6 @@
-package edu.upenn.cit594.processor;
+package edu.upenn.proj1.processor;
 
-import edu.upenn.cit594.util.Property;
+import edu.upenn.proj1.util.Property;
 
 public class avgTLACalculator implements avgCalculator{
 
