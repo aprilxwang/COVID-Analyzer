@@ -1,4 +1,4 @@
-package edu.upenn.cit594.logging;
+package edu.upenn.proj1.logging;
 
 import java.io.FileWriter;
 import java.io.IOException;
