@@ -1,6 +1,6 @@
-package edu.upenn.cit594.datamanagement;
+package edu.upenn.proj1.datamanagement;
 
-import edu.upenn.cit594.util.Population;
+import edu.upenn.proj1.util.Population;
 
 import java.io.IOException;
 
