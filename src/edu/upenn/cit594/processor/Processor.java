@@ -1,4 +1,4 @@
-package edu.upenn.cit594.processor;
+package edu.upenn.proj1.processor;
 
 import java.util.HashMap;
 import java.util.List;
@@ -12,10 +12,10 @@ import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.Comparator;
 
-import edu.upenn.cit594.datamanagement.*;
-import edu.upenn.cit594.util.Population;
-import edu.upenn.cit594.util.CovidData;
-import edu.upenn.cit594.util.Property;
+import edu.upenn.proj1.datamanagement.*;
+import edu.upenn.proj1.util.Population;
+import edu.upenn.proj1.util.CovidData;
+import edu.upenn.proj1.util.Property;
 
 
 
