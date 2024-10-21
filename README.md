@@ -58,21 +58,14 @@
 ## Design Specs
 - Program should use N-tier architecture
 - Organization:
-  - `edu.upenn.cit594` - should contain `Main.java`
-  - `edu.upenn.cit594.datamanagement`
-  - `edu.upenn.cit594.logging` 
-  - `edu.upenn.cit594.processor`
-  - `edu.upenn.cit594.ui`
-  - `edu.upenn.cit594.util`
+  - `edu.upenn.proj1` - should contain `Main.java`
+  - `edu.upenn.proj1.datamanagement`
+  - `edu.upenn.proj1.logging` 
+  - `edu.upenn.proj1.processor`
+  - `edu.upenn.proj1.ui`
+  - `edu.upenn.proj1.util`
 - Design Patterns
   - Logger should be a singleton
   - Computing average market value and average total livable area of properties should be done using the Strategy pattern
 - Efficiency
   - Program should use memoization
-
-
-## April 19, 2024 Meeting Notes
-- Debug and code review session
-- Finalized the output format in UI and passed all BasicTests
-- Tested with other provided files (downsampled_properties.csv)
-- Need to fill in signoff.txt -> changed name to Team-010.txt as instructed
