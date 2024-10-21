@@ -1,6 +1,6 @@
-package edu.upenn.cit594.datamanagement;
+package edu.upenn.proj1.datamanagement;
 
-import edu.upenn.cit594.util.CovidData;
+import edu.upenn.proj1.util.CovidData;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
